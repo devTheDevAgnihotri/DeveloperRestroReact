@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/DeveloperRestroReact/static/css/main.64c871f9.chunk.css",
-    "main.js": "/DeveloperRestroReact/static/js/main.87da5780.chunk.js",
-    "main.js.map": "/DeveloperRestroReact/static/js/main.87da5780.chunk.js.map",
+    "main.js": "/DeveloperRestroReact/static/js/main.be22993b.chunk.js",
+    "main.js.map": "/DeveloperRestroReact/static/js/main.be22993b.chunk.js.map",
     "runtime-main.js": "/DeveloperRestroReact/static/js/runtime-main.d63663a4.js",
     "runtime-main.js.map": "/DeveloperRestroReact/static/js/runtime-main.d63663a4.js.map",
     "static/css/2.58ee9992.chunk.css": "/DeveloperRestroReact/static/css/2.58ee9992.chunk.css",
     "static/js/2.31f92e79.chunk.js": "/DeveloperRestroReact/static/js/2.31f92e79.chunk.js",
     "static/js/2.31f92e79.chunk.js.map": "/DeveloperRestroReact/static/js/2.31f92e79.chunk.js.map",
     "index.html": "/DeveloperRestroReact/index.html",
-    "precache-manifest.aea617b44e139abe013669f3a05158dc.js": "/DeveloperRestroReact/precache-manifest.aea617b44e139abe013669f3a05158dc.js",
+    "precache-manifest.b8548d5bb282bef8f83f45819b528f16.js": "/DeveloperRestroReact/precache-manifest.b8548d5bb282bef8f83f45819b528f16.js",
     "service-worker.js": "/DeveloperRestroReact/service-worker.js",
     "static/css/2.58ee9992.chunk.css.map": "/DeveloperRestroReact/static/css/2.58ee9992.chunk.css.map",
     "static/css/main.64c871f9.chunk.css.map": "/DeveloperRestroReact/static/css/main.64c871f9.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.58ee9992.chunk.css",
     "static/js/2.31f92e79.chunk.js",
     "static/css/main.64c871f9.chunk.css",
-    "static/js/main.87da5780.chunk.js"
+    "static/js/main.be22993b.chunk.js"
   ]
 }
